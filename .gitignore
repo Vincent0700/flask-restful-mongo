@@ -1,0 +1,14 @@
+# absolute folders
+.idea/
+.vscode/
+logs/
+venv/
+
+# folders
+__pycache__
+
+# files
+.DS_Store
+*.pyc
+*.log
+
